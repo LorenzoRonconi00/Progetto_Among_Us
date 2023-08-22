@@ -7,7 +7,7 @@
                                     -----------------------------------------------------------------------
 
 
-![alt text]([http://url/to/img.png](https://assets-prd.ignimgs.com/2020/12/15/among-us-button-fin-1608054673652.jpg))
+![alt text](https://github.com/LorenzoRonconi00/Progetto_Among_Us/blob/main/among-us-button-fin-1608054673652.jpeg)
 
 
 Questo progetto prevede l'utilizzo del linguaggio di programmazione C per ricreare il più fedelmente possibile il famosissimo gioco Among Us, senza l'uso di grafica ma come semplice gioco testuale. Il gioco è basato su scelte ed eventi randomici, con la possibilità di giocare con più giocatori in locale a turni. 
